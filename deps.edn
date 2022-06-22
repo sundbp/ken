@@ -1,0 +1,4 @@
+{:desc "ken observaility"
+ :paths ["src"]
+ :deps {mvxcvi/alphabase {:mvn/version "2.1.1"}
+        manifold/manifold {:mvn/version "0.2.4"}}}
